@@ -9,6 +9,8 @@ Requirement install
 
 Commands to run : 
 
+appium --base-path /wd/hub
+
 1- react-native run-android
 
 2- Start the appium server desktop version OR yarn run appium in the terminal 
